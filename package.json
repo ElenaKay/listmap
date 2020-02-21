@@ -1,0 +1,27 @@
+{
+  "name": "listmap",
+  "description": "Javascript Object With Ordered Keys",
+  "homepage": "https://github.com/ElenaKay/listmap",
+  "main": "index.js",
+  "files": [ "index.js" ],
+  "version": "0.0.0-prealpha",
+  "author": {
+    "name": "Elena Mir Karimi",
+    "email": "elena.karymy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElenaKay/listmap"
+  },
+  "bugs": { "url": "https://github.com/ElenaKay/listmap/issues" },
+  "license": "MIT",
+  "keywords": [
+    "associative",
+    "hashmap",
+    "list",
+    "sorted",
+    "ordered",
+    "array",
+    "hashlist"
+  ]
+}
